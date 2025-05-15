@@ -1,0 +1,2 @@
+2025-05-12 16:10:01.1096|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 16:10:03.1236|INFO|printer3d.Log|Berhasil mengambil data sequence dari 

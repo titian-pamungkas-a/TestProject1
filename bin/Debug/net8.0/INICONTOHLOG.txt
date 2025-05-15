@@ -1,0 +1,105 @@
+2025-05-12 12:13:46.3680|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 12:13:46.3878|INFO|printer3d.Log|Berhasil mengambil data sequence dari 
+2025-05-12 12:13:47.3972|INFO|printer3d.Log|Axis 0 menempuh jarak 1
+2025-05-12 12:13:47.3972|INFO|printer3d.Log|ke 2 0 1 24 1
+2025-05-12 12:13:48.3960|INFO|printer3d.Log|Axis 0 menempuh jarak 2
+2025-05-12 12:13:48.3960|INFO|printer3d.Log|ke 2 0 1 24 2
+2025-05-12 12:13:49.4066|INFO|printer3d.Log|Axis 0 menempuh jarak 3
+2025-05-12 12:13:49.4066|INFO|printer3d.Log|ke 2 0 1 24 3
+2025-05-12 12:13:50.4213|INFO|printer3d.Log|Axis 0 menempuh jarak 4
+2025-05-12 12:13:50.4213|INFO|printer3d.Log|ke 2 0 1 24 4
+2025-05-12 12:13:51.4327|INFO|printer3d.Log|Axis 0 menempuh jarak 5
+2025-05-12 12:13:51.4327|INFO|printer3d.Log|ke 2 0 1 24 5
+2025-05-12 12:13:52.4438|INFO|printer3d.Log|Axis 0 menempuh jarak 6
+2025-05-12 12:13:52.4438|INFO|printer3d.Log|ke 2 0 1 24 6
+2025-05-12 12:13:53.4525|INFO|printer3d.Log|Axis 0 menempuh jarak 7
+2025-05-12 12:13:53.4525|INFO|printer3d.Log|ke 2 0 1 24 7
+2025-05-12 12:13:54.4599|INFO|printer3d.Log|Axis 0 menempuh jarak 8
+2025-05-12 12:13:54.4599|INFO|printer3d.Log|ke 2 0 1 24 8
+2025-05-12 12:13:55.4700|INFO|printer3d.Log|Axis 0 menempuh jarak 9
+2025-05-12 12:13:55.4700|INFO|printer3d.Log|ke 2 0 1 24 9
+2025-05-12 12:13:56.4785|INFO|printer3d.Log|Axis 0 menempuh jarak 10
+2025-05-12 12:13:56.4785|INFO|printer3d.Log|ke 2 0 1 24 10
+2025-05-12 12:13:57.4877|INFO|printer3d.Log|Axis 0 menempuh jarak 11
+2025-05-12 12:13:57.4877|INFO|printer3d.Log|ke 2 0 1 24 11
+2025-05-12 12:13:58.5011|INFO|printer3d.Log|Axis 0 menempuh jarak 12
+2025-05-12 12:13:58.5011|INFO|printer3d.Log|ke 2 0 1 24 12
+2025-05-12 12:13:59.5137|INFO|printer3d.Log|Axis 0 menempuh jarak 13
+2025-05-12 12:13:59.5137|INFO|printer3d.Log|ke 2 0 1 24 13
+2025-05-12 12:14:00.5253|INFO|printer3d.Log|Axis 0 menempuh jarak 14
+2025-05-12 12:14:00.5253|INFO|printer3d.Log|ke 2 0 1 24 14
+2025-05-12 12:14:01.5378|INFO|printer3d.Log|Axis 0 menempuh jarak 15
+2025-05-12 12:14:01.5378|INFO|printer3d.Log|ke 2 0 1 24 15
+2025-05-12 12:14:02.5512|INFO|printer3d.Log|Axis 0 menempuh jarak 16
+2025-05-12 12:14:02.5512|INFO|printer3d.Log|ke 2 0 1 24 16
+2025-05-12 12:14:03.5644|INFO|printer3d.Log|Axis 0 menempuh jarak 17
+2025-05-12 12:14:03.5644|INFO|printer3d.Log|ke 2 0 1 24 17
+2025-05-12 12:14:04.5740|INFO|printer3d.Log|Axis 0 menempuh jarak 18
+2025-05-12 12:14:04.5740|INFO|printer3d.Log|ke 2 0 1 24 18
+2025-05-12 12:14:05.5847|INFO|printer3d.Log|Axis 0 menempuh jarak 19
+2025-05-12 12:14:05.5847|INFO|printer3d.Log|ke 2 0 1 24 19
+2025-05-12 12:14:06.5968|INFO|printer3d.Log|Axis 0 menempuh jarak 20
+2025-05-12 12:14:06.5968|INFO|printer3d.Log|ke 2 0 1 24 20
+2025-05-12 12:14:07.6044|INFO|printer3d.Log|Axis 0 menempuh jarak 21
+2025-05-12 12:14:07.6044|INFO|printer3d.Log|ke 2 0 1 24 21
+2025-05-12 12:14:08.6186|INFO|printer3d.Log|Axis 0 menempuh jarak 22
+2025-05-12 12:14:08.6186|INFO|printer3d.Log|ke 2 0 1 24 22
+2025-05-12 12:14:09.6307|INFO|printer3d.Log|Axis 0 menempuh jarak 23
+2025-05-12 12:14:09.6307|INFO|printer3d.Log|ke 2 0 1 24 23
+2025-05-12 12:14:10.6441|INFO|printer3d.Log|Axis 0 menempuh jarak 24
+2025-05-12 12:14:10.6441|INFO|printer3d.Log|ke 2 0 1 24 24
+2025-05-12 12:14:10.6441|INFO|printer3d.Log|Axis 0 sampai pada tujuan dalam waktu 24254,5908 24 24 0
+2025-05-12 12:17:03.7297|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 12:17:03.7510|INFO|printer3d.Log|Berhasil mengambil data sequence dari 
+2025-05-12 12:17:04.7665|INFO|printer3d.Log|Axis 0 menempuh jarak 1
+2025-05-12 12:17:04.7665|INFO|printer3d.Log|ke 2 0 1 12 1
+2025-05-12 12:17:05.7794|INFO|printer3d.Log|Axis 0 menempuh jarak 2
+2025-05-12 12:17:05.7794|INFO|printer3d.Log|ke 2 0 1 12 2
+2025-05-12 12:17:06.7888|INFO|printer3d.Log|Axis 0 menempuh jarak 3
+2025-05-12 12:17:06.7888|INFO|printer3d.Log|ke 2 0 1 12 3
+2025-05-12 12:17:07.7995|INFO|printer3d.Log|Axis 0 menempuh jarak 4
+2025-05-12 12:17:07.7995|INFO|printer3d.Log|ke 2 0 1 12 4
+2025-05-12 12:17:08.8103|INFO|printer3d.Log|Axis 0 menempuh jarak 5
+2025-05-12 12:17:08.8103|INFO|printer3d.Log|ke 2 0 1 12 5
+2025-05-12 12:17:09.8199|INFO|printer3d.Log|Axis 0 menempuh jarak 6
+2025-05-12 12:17:09.8199|INFO|printer3d.Log|ke 2 0 1 12 6
+2025-05-12 12:17:10.8319|INFO|printer3d.Log|Axis 0 menempuh jarak 7
+2025-05-12 12:17:10.8319|INFO|printer3d.Log|ke 2 0 1 12 7
+2025-05-12 12:17:11.8413|INFO|printer3d.Log|Axis 0 menempuh jarak 8
+2025-05-12 12:17:11.8413|INFO|printer3d.Log|ke 2 0 1 12 8
+2025-05-12 12:17:12.8510|INFO|printer3d.Log|Axis 0 menempuh jarak 9
+2025-05-12 12:17:12.8510|INFO|printer3d.Log|ke 2 0 1 12 9
+2025-05-12 12:17:13.8612|INFO|printer3d.Log|Axis 0 menempuh jarak 10
+2025-05-12 12:17:13.8612|INFO|printer3d.Log|ke 2 0 1 12 10
+2025-05-12 12:17:14.8714|INFO|printer3d.Log|Axis 0 menempuh jarak 11
+2025-05-12 12:17:14.8714|INFO|printer3d.Log|ke 2 0 1 12 11
+2025-05-12 12:17:15.8810|INFO|printer3d.Log|Axis 0 menempuh jarak 12
+2025-05-12 12:17:15.8810|INFO|printer3d.Log|ke 2 0 1 12 12
+2025-05-12 12:17:15.8810|INFO|printer3d.Log|Axis 0 sampai pada tujuan dalam waktu 12128,7275 12 12 0
+2025-05-12 12:18:52.0896|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 12:18:52.1232|INFO|printer3d.Log|Berhasil mengambil data sequence dari 
+2025-05-12 12:18:53.1320|INFO|printer3d.Log|Axis 0 menempuh jarak 1
+2025-05-12 12:18:53.1320|INFO|printer3d.Log|ke 2 0 1 12 1
+2025-05-12 12:18:54.1412|INFO|printer3d.Log|Axis 0 menempuh jarak 2
+2025-05-12 12:18:54.1412|INFO|printer3d.Log|ke 2 0 1 12 2
+2025-05-12 12:18:55.1498|INFO|printer3d.Log|Axis 0 menempuh jarak 3
+2025-05-12 12:18:55.1498|INFO|printer3d.Log|ke 2 0 1 12 3
+2025-05-12 12:18:56.1606|INFO|printer3d.Log|Axis 0 menempuh jarak 4
+2025-05-12 12:18:56.1606|INFO|printer3d.Log|ke 2 0 1 12 4
+2025-05-12 12:18:57.1719|INFO|printer3d.Log|Axis 0 menempuh jarak 5
+2025-05-12 12:18:57.1719|INFO|printer3d.Log|ke 2 0 1 12 5
+2025-05-12 12:18:58.1852|INFO|printer3d.Log|Axis 0 menempuh jarak 6
+2025-05-12 12:18:58.1852|INFO|printer3d.Log|ke 2 0 1 12 6
+2025-05-12 12:18:59.2004|INFO|printer3d.Log|Axis 0 menempuh jarak 7
+2025-05-12 12:18:59.2004|INFO|printer3d.Log|ke 2 0 1 12 7
+2025-05-12 12:19:00.2118|INFO|printer3d.Log|Axis 0 menempuh jarak 8
+2025-05-12 12:19:00.2118|INFO|printer3d.Log|ke 2 0 1 12 8
+2025-05-12 12:19:01.2220|INFO|printer3d.Log|Axis 0 menempuh jarak 9
+2025-05-12 12:19:01.2220|INFO|printer3d.Log|ke 2 0 1 12 9
+2025-05-12 12:19:02.2273|INFO|printer3d.Log|Axis 0 menempuh jarak 10
+2025-05-12 12:19:02.2273|INFO|printer3d.Log|ke 2 0 1 12 10
+2025-05-12 12:19:03.2389|INFO|printer3d.Log|Axis 0 menempuh jarak 11
+2025-05-12 12:19:03.2389|INFO|printer3d.Log|ke 2 0 1 12 11
+2025-05-12 12:19:04.2509|INFO|printer3d.Log|Axis 0 menempuh jarak 12
+2025-05-12 12:19:04.2509|INFO|printer3d.Log|ke 2 0 1 12 12
+2025-05-12 12:19:04.2509|INFO|printer3d.Log|Axis 0 sampai pada tujuan dalam waktu 12126,5435 12 12 0

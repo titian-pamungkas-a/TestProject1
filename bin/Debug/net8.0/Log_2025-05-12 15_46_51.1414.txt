@@ -1,0 +1,17 @@
+2025-05-12 15:46:51.1414|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 15:46:53.1647|INFO|printer3d.Log|Berhasil mengambil data sequence dari 
+2025-05-12 15:46:53.6797|INFO|printer3d.Log|Axis Y menempuh jarak 1 dan berada pada titik 7
+2025-05-12 15:46:54.1932|INFO|printer3d.Log|Axis Y menempuh jarak 2 dan berada pada titik 8
+2025-05-12 15:46:54.7058|INFO|printer3d.Log|Axis Y menempuh jarak 3 dan berada pada titik 9
+2025-05-12 15:46:55.2191|INFO|printer3d.Log|Axis Y menempuh jarak 4 dan berada pada titik 10
+2025-05-12 15:46:55.7196|INFO|printer3d.Log|Axis Y menempuh jarak 5 dan berada pada titik 11
+2025-05-12 15:46:56.2335|INFO|printer3d.Log|Axis Y menempuh jarak 6 dan berada pada titik 12
+2025-05-12 15:46:56.7452|INFO|printer3d.Log|Axis Y menempuh jarak 7 dan berada pada titik 13
+2025-05-12 15:46:57.2578|INFO|printer3d.Log|Axis Y menempuh jarak 8 dan berada pada titik 14
+2025-05-12 15:46:57.7587|INFO|printer3d.Log|Axis Y menempuh jarak 9 dan berada pada titik 15
+2025-05-12 15:46:58.2589|INFO|printer3d.Log|Axis Y menempuh jarak 10 dan berada pada titik 16
+2025-05-12 15:46:58.7613|INFO|printer3d.Log|Axis Y menempuh jarak 11 dan berada pada titik 17
+2025-05-12 15:46:59.2741|INFO|printer3d.Log|Axis Y menempuh jarak 12 dan berada pada titik 18
+2025-05-12 15:46:59.2741|INFO|printer3d.Log|Axis Y selesai pada 6,1076357 jalur 6-18 posisi Y_18
+2025-05-12 15:47:10.3545|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 15:47:12.3676|INFO|printer3d.Log|Berhasil mengambil data sequence dari 

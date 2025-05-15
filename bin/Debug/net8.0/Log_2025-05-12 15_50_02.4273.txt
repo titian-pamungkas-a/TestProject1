@@ -1,0 +1,27 @@
+2025-05-12 15:50:02.4273|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 15:50:04.4408|INFO|printer3d.Log|Berhasil mengambil data sequence dari 
+2025-05-12 15:50:04.9540|INFO|printer3d.Log|Axis X menempuh jarak 0,5 dan berada pada titik 11,5
+2025-05-12 15:50:05.4632|INFO|printer3d.Log|Axis X menempuh jarak 1 dan berada pada titik 11
+2025-05-12 15:50:05.9760|INFO|printer3d.Log|Axis X menempuh jarak 1,5 dan berada pada titik 10,5
+2025-05-12 15:50:06.4892|INFO|printer3d.Log|Axis X menempuh jarak 2 dan berada pada titik 10
+2025-05-12 15:50:07.0005|INFO|printer3d.Log|Axis X menempuh jarak 2,5 dan berada pada titik 9,5
+2025-05-12 15:50:07.5017|INFO|printer3d.Log|Axis X menempuh jarak 3 dan berada pada titik 9
+2025-05-12 15:50:08.0427|INFO|printer3d.Log|Axis X menempuh jarak 3,5 dan berada pada titik 8,5
+2025-05-12 15:50:08.5532|INFO|printer3d.Log|Axis X menempuh jarak 4 dan berada pada titik 8
+2025-05-12 15:50:09.0544|INFO|printer3d.Log|Axis X menempuh jarak 4,5 dan berada pada titik 7,5
+2025-05-12 15:50:09.5679|INFO|printer3d.Log|Axis X menempuh jarak 5 dan berada pada titik 7
+2025-05-12 15:50:10.0821|INFO|printer3d.Log|Axis X menempuh jarak 5,5 dan berada pada titik 6,5
+2025-05-12 15:50:10.5965|INFO|printer3d.Log|Axis X menempuh jarak 6 dan berada pada titik 6
+2025-05-12 15:50:11.1119|INFO|printer3d.Log|Axis X menempuh jarak 6,5 dan berada pada titik 5,5
+2025-05-12 15:50:11.6265|INFO|printer3d.Log|Axis X menempuh jarak 7 dan berada pada titik 5
+2025-05-12 15:50:12.1385|INFO|printer3d.Log|Axis X menempuh jarak 7,5 dan berada pada titik 4,5
+2025-05-12 15:50:12.6399|INFO|printer3d.Log|Axis X menempuh jarak 8 dan berada pada titik 4
+2025-05-12 15:50:13.1538|INFO|printer3d.Log|Axis X menempuh jarak 8,5 dan berada pada titik 3,5
+2025-05-12 15:50:13.6655|INFO|printer3d.Log|Axis X menempuh jarak 9 dan berada pada titik 3
+2025-05-12 15:50:14.2589|INFO|printer3d.Log|Axis X menempuh jarak 9,5 dan berada pada titik 2,5
+2025-05-12 15:50:14.7732|INFO|printer3d.Log|Axis X menempuh jarak 10 dan berada pada titik 2
+2025-05-12 15:50:15.2877|INFO|printer3d.Log|Axis X menempuh jarak 10,5 dan berada pada titik 1,5
+2025-05-12 15:50:15.8000|INFO|printer3d.Log|Axis X menempuh jarak 11 dan berada pada titik 1
+2025-05-12 15:50:16.3144|INFO|printer3d.Log|Axis X menempuh jarak 11,5 dan berada pada titik 0,5
+2025-05-12 15:50:16.8277|INFO|printer3d.Log|Axis X menempuh jarak 12 dan berada pada titik 0
+2025-05-12 15:50:16.8277|INFO|printer3d.Log|Axis X selesai pada 12,3848986 jalur 12-0 posisi X_0

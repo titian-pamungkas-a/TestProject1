@@ -1,0 +1,11 @@
+2025-05-12 15:56:11.4747|INFO|printer3d.Log|Mengambil data sequence dari 
+2025-05-12 15:56:13.4980|INFO|printer3d.Log|Berhasil mengambil data sequence dari 
+2025-05-12 15:56:14.0144|INFO|printer3d.Log|Axis Z menempuh jarak 1,5 dan berada pada titik 1,5
+2025-05-12 15:56:14.5225|INFO|printer3d.Log|Axis Z menempuh jarak 3 dan berada pada titik 3
+2025-05-12 15:56:15.0337|INFO|printer3d.Log|Axis Z menempuh jarak 4,5 dan berada pada titik 4,5
+2025-05-12 15:56:15.5469|INFO|printer3d.Log|Axis Z menempuh jarak 6 dan berada pada titik 6
+2025-05-12 15:56:16.0614|INFO|printer3d.Log|Axis Z menempuh jarak 7,5 dan berada pada titik 7,5
+2025-05-12 15:56:16.5764|INFO|printer3d.Log|Axis Z menempuh jarak 9 dan berada pada titik 9
+2025-05-12 15:56:17.1031|INFO|printer3d.Log|Axis Z menempuh jarak 10,5 dan berada pada titik 10,5
+2025-05-12 15:56:17.6039|INFO|printer3d.Log|Axis Z menempuh jarak 12 dan berada pada titik 12
+2025-05-12 15:56:17.6039|INFO|printer3d.Log|Axis Z selesai pada 4,1031065 jalur 0-12 posisi Z_12
